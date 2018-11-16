@@ -1,4 +1,8 @@
-Sitecore Commerce Mentoring Guild comes in. It provides a place where you can meet others working with Sitecore Commerce at various levels. You can ask questions and get answers. You can view the various documents that help with:
+_**WARNING: This book has been moved to **_[_**https://sitecorecommerceguild.gitbook.io/scmg/**_](/W ARNING: This book has been moved to https://sitecorecommerceguild.gitbook.io/scmg/ and will not be updated here)_** and will not be updated here**_
+
+
+
+Sitecore Commerce Mentoring Guild provides a place where you can meet others working with Sitecore Commerce at various levels. You can ask questions and get answers. You can view the various documents that help with:
 
 * key concepts
 * issues you may be running into
