@@ -1,8 +1,10 @@
+_**WARNING: This book has been moved to **_[_**https://sitecorecommerceguild.gitbook.io/scmg/**_](/W ARNING: This book has been moved to https://sitecorecommerceguild.gitbook.io/scmg/ and will not be updated here)_** and will not be updated here**_
+
 Please list any community events related to Sitecore Commerce here. If there are past events with Video please list the event and the link to the video so others can go back and view it.
 
 **Sept 28, 2017 - Sitecore Commerce Mentoring Guild Kick Off Meeting  **
 
-YouTube: https://www.youtube.com/watch?v=MC625lRK9lc
+YouTube: [https://www.youtube.com/watch?v=MC625lRK9lc](https://www.youtube.com/watch?v=MC625lRK9lc)
 
 Kelly Heard provided an architectural overview of Sitecore Commerce 8.2.1.
 
